@@ -1,0 +1,10 @@
+export { default as Comment } from "./CommentsSchema";
+export { default as Reply } from "./RepliesSchema";
+export { default as Like } from "./LikeSchema";
+export { default as User } from "./UserSchema";
+export { default as Video } from "./VideoSchema";
+export { default as View } from "./ViewSchema";
+export { default as Channel } from "./ChannelSchema";
+export { default as ReplyLike } from "./ReplyLikeSchema";
+export { default as CommentLike } from "./CommentLikeSchema";
+export { default as WatchLater } from "./WatchlaterSchema";
